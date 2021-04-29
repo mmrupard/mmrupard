@@ -1,0 +1,4 @@
+- Hi, I’m @mmrupard
+- I’m interested in numerical analysis and math based simulations
+- I’m currently learning java, python, typescript, and a bunch of other stuff!
+- I’m looking to collaborate on open source projects

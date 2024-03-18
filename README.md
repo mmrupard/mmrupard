@@ -1,4 +1,4 @@
-- Hi, I’m @mmrupard
+Hi, I’m @mmrupard
 
 - I’m currently working in the aerospace industry doing software development
 - I’m interested in numerical analysis and math based simulations

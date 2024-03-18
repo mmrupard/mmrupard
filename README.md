@@ -1,4 +1,5 @@
 - Hi, I’m @mmrupard
+
+- I’m currently working in the aerospace industry doing software development
 - I’m interested in numerical analysis and math based simulations
-- I’m currently working in the defense industry doing software development
-- I'm interested in moving into the web development world so I am learning that on the side
+- On the side I am dabbling in learning Rust by creating games with it!
